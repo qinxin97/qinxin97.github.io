@@ -63,9 +63,6 @@ Kaixiang Peng, **Xin Qin**, Jiahao Wang, Hui Yang
 </div>
 </div>
 
-
----
-
 - [Knowledge-data-driven process monitoring based on temporal knowledgegraphs and supervised contrastive learning for complex industrial processes](https://ieeexplore.ieee.org/abstract/document/9901564/)
   
   Kaixiang Peng, Jianhua Chen, Hui Yang, **Xin Qin**
