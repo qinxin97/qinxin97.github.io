@@ -50,7 +50,7 @@ A guiding principle I live by is: **Heaven rewards the diligent! (天道酬勤!)
 
 <!-- ######################################## -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/TSNet-500x300.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/QSS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Quality Soft Sensing Method for Multi-Stage Complex Manufacturing Processes（一种面向多工序复杂制造过程的质量软测量方法）](https://jsuese.scu.edu.cn/zh/article/doi/10.12454/j.jsuese.202400080/)
