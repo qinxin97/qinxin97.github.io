@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Guangxuan Song"
+title                    : "Xin Qin"
 description              : "he/him, 1997"
-repository               : "sguangxuan/sguangxuan.github.io"
+repository               : "qinxin97/qinxin97.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Guangxuan Song"
+  name             : "Xin Qin"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "PhD student, expected graduation in 2026"
   location         : "USTB, Beijing, China"
