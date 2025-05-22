@@ -76,7 +76,7 @@ Kaixiang Peng, **Xin Qin**, Jiahao Wang, Hui Yang
 
 ---
 
-- A Semi-supervised Quality Soft Sensing Methodunder Multiple Operating Conditions for ComplexProduct Manufacturing Processes
+- [A Semi-supervised Quality Soft Sensing Methodunder Multiple Operating Conditions for ComplexProduct Manufacturing Processes](https://ieeexplore.ieee.org/abstract/document/10704746)
   
   Kaixiang Peng, Jiahao Wang, Hui Yang, **Xin Qin**
   
@@ -84,7 +84,7 @@ Kaixiang Peng, **Xin Qin**, Jiahao Wang, Hui Yang
 
 ---
 
-- A Novel Quality-Related Generative Data-Driven Fault Diagnosis Method for Complex Industrial Processes with Incomplete Data
+- [A Novel Quality-Related Generative Data-Driven Fault Diagnosis Method for Complex Industrial Processes with Incomplete Data]()
   
   Muhammad Asfandyar Shahid, Kaixiang Peng, Xueyi Zhang, **Xin Qin**
   
@@ -92,7 +92,7 @@ Kaixiang Peng, **Xin Qin**, Jiahao Wang, Hui Yang
 
 ---
 
-- Semi-supervised soft measurement of strip hot milling process considering incomplete samples（考虑不完备样本的带钢热轧过程半监督软测量方法）
+- [Semi-supervised soft measurement of strip hot milling process considering incomplete samples（考虑不完备样本的带钢热轧过程半监督软测量方法）]()
   
   Xiaoyu Liu, **Xin Qin**, Xiaoke Xu, Kaixiang Peng,
   
