@@ -79,14 +79,13 @@ Kaixiang Peng, **Xin Qin**, Jiahao Wang, Hui Yang
 
 ---
 
--A Novel Quality-Related Generative Data-Driven Fault Diagnosis Method for Complex Industrial Processes with Incomplete Data
+- A Novel Quality-Related Generative Data-Driven Fault Diagnosis Method for Complex Industrial Processes with Incomplete Data
   
   Muhammad Asfandyar Shahid, Kaixiang Peng, Xueyi Zhang, **Xin Qin**
   
   **Measurement**
 
 ---
-
 
 - Semi-supervised soft measurement of strip hot milling process considering incomplete samples（考虑不完备样本的带钢热轧过程半监督软测量方法）
   
