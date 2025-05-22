@@ -33,6 +33,11 @@ A guiding principle I live by is: **Heaven rewards the diligent! (天道酬勤!)
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
+# 📖 Educations
+- *2023.09 - Now*, Ph.D in University of Science and Technology Beijing.
+- *2021.09 - 2023.06*, M.S. in University of Science and Technology Beijing. 
+- *2016.09 - 2020.06*, B.S. in University of Science and Technology Beijing.
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM</div><img src='images/SQAE.png' alt="sym" width="100%"></div></div>
@@ -110,25 +115,24 @@ Kaixiang Peng, **Xin Qin**, Jiahao Wang, Hui Yang
 # 🧾 Patents
 
 - *2020*, **Electronic Anti-Shake Tableware** (一种电子防抖餐具), Granted, CN110584428B
-- *2021*, **Entity Label Clustering Method for Materials Knowledge Graph** (一种材料领域知识图谱的实体标签聚类方法及装置), Under Substantive Examination, CN202111258392.8
-- *2022*, **Construction Method for Metallurgical Materials Knowledge Graph** (一种钢铁材料学知识图谱构建方法及系统), Under Substantive Examination, CN202210921904.2
-- *2022*, **Method and System for Operating a Materials Data Processing Platform** (一种材料数据处理平台的搭建、运行方法及系统), Under Substantive Examination, CN202211072133.0
-- *2022*, **Inference Method for Potential Knowledge in Steel Knowledge Graph** (一种基于钢材知识图谱的钢材潜在知识推理方法及系统), Under Substantive Examination, CN202210611454.7
+- *2024*, **Electronic Anti-Shake Tableware** (一种电子防抖餐具), Granted, ZL201910912611.6
+- *2024*, **A method and device for monitoring hot strip rolling process considering spatio-temporal characteristics of data** (一种考虑数据时空特性的带钢热连轧过程监测方法及装置), Granted, ZL202410177636.7
+- *2024*, **A “cloud-edge” collaborative strip hot milling production process data governance and performance prediction and evaluation method and device** (一种“云边”协同的带钢热轧生产过程数据治理及性能预测评估方法及装置), Granted, ZL202411263330.X
+- *2024*, **A float glass production process key performance indicators abnormal monitoring method and device** (一种浮法玻璃生产过程关键性能指标异常监测方法及装置), Granted, ZL202410429521.2
+- *2024*, **A float glass production process fault monitoring and root cause diagnosis method and device** (一种浮法玻璃生产过程故障监测与根源诊断方法及装置), Granted, ZL202410433444.8
+- *2024*, **A kind of float glass production process corrugation degree monitoring and regulation optimization method and device** (一种浮法玻璃生产过程波纹度监测与调控优化方法及装置), Under Substantive Examination, CN202410164966.2
+- *2024*, **A soft measurement model inspection method and device for float glass product quality** (一种面向浮法玻璃产品质量的软测量模型检测方法及装置), Under Substantive Examination, CN202410416412.7
 
 # 💻 Software Copyrights
 
-- *2022*, **Book Knowledge Extraction Annotation Software** V1.0 (书籍知识抽取标注软件), 2022SR1352750
+<!-- - *2022*, **Book Knowledge Extraction Annotation Software** V1.0 (书籍知识抽取标注软件), 2022SR1352750 -->
 
-# 📖 Educations
-- *2020.09 - Now*, Ph.D in University of Science and Technology Beijing. 
-- *2016.09 - 2020.06*, B.S. in University of Science and Technology Beijing.
 
 # 🔗 Links
 
 I am fortunate to collaborate closely with the following research partners:
 
-- [Zhongwei Qiu](https://ericzw.github.io/). My senior colleague and research mentor, working on human-centric visual perception, multimodal learning, and generative models with applications in healthcare and science.
-
+- [Guangxuan Song](https://sguangxuan.github.io/). My partner working on knowledge graphs and large language models, particularly in their application to scientific data analysis in materials science.
 - [Meijun Wang](https://wmj142326.github.io/). My partner working on autonomous driving and computer vision, with a focus on human pose estimation and pedestrian safety.
 
 - Xin Qin. My partner in data-driven research on industrial fault diagnosis and process modeling.
