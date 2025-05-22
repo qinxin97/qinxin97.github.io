@@ -105,7 +105,7 @@ Kaixiang Peng, **Xin Qin**, Jiahao Wang, Hui Yang
 - *2020*, First Prize, **International Contest of innovAtioN (iCAN)**, *Calmspoon Stabilizing Tableware*
 - *2020*, Gold Award, **“Challenge Cup” Capital College Student Entrepreneurship Competition**, *Calmspoon Stabilizing Tableware* (“挑战杯”省赛金奖)
 - *2021*, Second Prize, **“Maker Beijing” Regional Innovation and Entrepreneurship Competition** – Urban Big Data Track, *Calmspoon Stabilizing Tableware*
-- *2024*, Third Prize, **China International College Students Innovation Competition** – Beijing Regional, “YiWenZhi” AI-powered medical assistant for clinical documentation*
+- *2024*, Second Prize, **China International Student Innovation Competition (2024)** – Beijing Regional, Intelligent Manufacturing: Operation and Maintenance Integrated Quality Control Platform Based on Domestic Highly Self-developed Digital Twin Engine*
 
 ---
 
