@@ -99,17 +99,13 @@ Kaixiang Peng, **Xin Qin**, Jiahao Wang, Hui Yang
 # 🎖 Honors and Awards
 - *2020*, First Prize, **International Contest of innovAtioN (iCAN)**, *Calmspoon Stabilizing Tableware*
 - *2020*, Gold Award, **“Challenge Cup” Capital College Student Entrepreneurship Competition**, *Calmspoon Stabilizing Tableware* (“挑战杯”省赛金奖)
-- *2020*, National Second Prize, **4th “Changfeng Cup” National College Student Big Data Competition**, *Customer profiling for logistics data using knowledge graphs*
 - *2021*, Second Prize, **“Maker Beijing” Regional Innovation and Entrepreneurship Competition** – Urban Big Data Track, *Calmspoon Stabilizing Tableware*
 - *2024*, Third Prize, **China International College Students Innovation Competition** – Beijing Regional, “YiWenZhi” AI-powered medical assistant for clinical documentation*
-- *2024*, Top 100 Teams, **“Jingcai Dachuang” Beijing College Student Innovation and Entrepreneurship Competition** – Healthcare Track, *“YiWenZhi” Intelligent Medical Assistant*
 
 ---
 
 - *2021*, **Outstanding Graduate Student Leader**, USTB
-- *2022*, **National Scholarship for Doctoral Students**
-- *2022*, **“Top 100 Youth in the Communist Youth League”**, Science Star Award, USTB
-- *2025*, **May Fourth Youth Medal**, USTB (highest honor of the Communist Youth League at USTB)
+
 
 # 🧾 Patents
 
@@ -122,25 +118,10 @@ Kaixiang Peng, **Xin Qin**, Jiahao Wang, Hui Yang
 # 💻 Software Copyrights
 
 - *2022*, **Book Knowledge Extraction Annotation Software** V1.0 (书籍知识抽取标注软件), 2022SR1352750
-- *2024*, **Parkinson’s Disease Diagnosis and Medical QA System Based on Knowledge Graph** V1.0 (基于知识图谱的帕金森病诊断与医疗问答系统), 2024SR062116
-- *2024*, **Parkinson’s Disease Medical QA Android App** V1.0 (基于知识图谱的帕金森病诊断与医疗问答APP软件), 2024SR0419077
-- *2024*, **Materials Corrosion Database Query Software** V1.0 (材料腐蚀数据库数据检索查询软件), 2024SR0704988
-- *2024*, **Web-Based Sharing Platform for Corrosion Data Dashboard** V1.0 (材料腐蚀数据库和信息资源网络化共享平台数据大屏网站), 2024SR0750810
-- *2024*, **Client Software for Materials Corrosion Data Platform** V1.0 (材料腐蚀数据库和信息资源网络化共享平台网站客户端软件), 2024SR0703838
-- *2024*, **Integrated Algorithms for Intelligent Corrosion Data Processing** V1.0 (材料腐蚀数据智能处理算法集成软件), 2024SR0703369
-- *2024*, **Medical Risk Assessment System Based on KG and LLMs** V1.0 (基于知识图谱和大语言模型的病历风险评估系统), 2024SR0600394
-- *2024*, **Medical Decision Explanation System Based on KG and LLMs** V1.0 (基于知识图谱和大语言模型的医疗决策解释系统), 2024SR0632941
 
 # 📖 Educations
 - *2020.09 - Now*, Ph.D in University of Science and Technology Beijing. 
 - *2016.09 - 2020.06*, B.S. in University of Science and Technology Beijing.
-
-# 💬 Invited Talks
-
-- *Oct. 2020*, **Entrepreneurial Journey: Bringing Warmth to Innovation**, *iCAN Science Innovation Festival*, Qingdao, China \| [\[video\]](https://www.bilibili.com/video/BV1L54y1r7bc/)
-- *Jul. 2022*, **From Knowledge Graphs to Industrial Knowledge Automation: A Survey**, *Chinese Control Conference*, Hefei, China (online presentation)
-- *Sep. 2024*, **Knowledge Graphs and Deep Learning in Corrosion Science Data Research**, *9th Scientific Data Conference*, Chengdu, China
-- *Oct. 2024*, **Knowledge and Data-driven Framework for Multi-principal Element Alloys: Automated Knowledge Acquisition, Representation, and Rediscovery**, *22nd International Corrosion Congress*, Xi’an, China
 
 # 🔗 Links
 
