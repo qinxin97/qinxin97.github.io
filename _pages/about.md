@@ -42,7 +42,7 @@ A guiding principle I live by is: **Heaven rewards the diligent! (天道酬勤!)
 
 **Xin Qin**, Kaixiang Peng, Hongjun Zhang
 
-**IEEE TIM** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**IEEE TIM**
 - We proposed a quality-related multimodal process monitoring strategy based on IITL-SQAE for addressing theissues ofnonlinearity, dynamics, and multimodality inindustrial rprocess quality monitoring.
 - A novel neural network with a certain level of inter-pretability was introduced. The neural network utilizes thecorrelation and causality of process variable and qualityvariable to extract deep quality-related features.
 </div>
@@ -57,16 +57,12 @@ A guiding principle I live by is: **Heaven rewards the diligent! (天道酬勤!)
 
 Kaixiang Peng, **Xin Qin**, Jiahao Wang, Hui Yang
 
-**Advanced Engineering Sciences** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+**Advanced Engineering Sciences**
 - We proposed an mRMR-GA-ResNet-based soft measurement modeling method for quality of multi-process complex manufacturing processes considering process time delay.
 - A multi-sensor process variable selection method based on mRMR and GA considering the time delay between process variables and quality variables was introduced.
 </div>
 </div>
 
-<!-- ######################################## -->
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/TSNet-500x300.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 ---
 
