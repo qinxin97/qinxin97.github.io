@@ -24,9 +24,9 @@ redirect_from:
 
 Thank you for visiting my website! I'm always happy to connect—feel free to reach out.
 
-My research interests lie at the intersection of knowledge graphs and large language models, particularly in their application to scientific data analysis in materials science. I also have a growing interest in exploring how these technologies can support medical research. I am currently pursuing my Ph.D. under the supervision of Prof. Dongmei Fu and the co-supervision of Prof. Dawei Zhang at the University of Science and Technology Beijing (USTB).
+My research interest is in industrial intelligence and security. The current topic is industrial process fault diagnosis and optimization, implemented using industrial big data analytics. The industrial processes I am familiar with are  hot strip mill process (SHMP) and float glass production process (FGPP). I am currently pursuing my Ph.D. under the supervision of Prof. Kaixiang Peng at the University of Science and Technology Beijing (USTB).
 
-A guiding principle I live by is: **Do good work, and don’t worry too much about the outcome. (但行好事，莫问前程。)** I believe that focusing on meaningful efforts will naturally lead to meaningful results.
+A guiding principle I live by is: **Heaven rewards the diligent! (天道酬勤!)**
 
 
 <!-- # 🔥 News -->
@@ -38,13 +38,13 @@ A guiding principle I live by is: **Do good work, and don’t worry too much abo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/NRKG-500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Bridging the Semantic-Numerical Gap: A Numerical Reasoning Method of Cross-modal Knowledge Graph for Material Property Prediction](https://arxiv.org/abs/2312.09744)
+[A Novel Multimodal Process Monitoring Method Based on Improved Just-in-Time Learning-Assisted Stacked Quality-Related Autoencoder](https://ieeexplore.ieee.org/abstract/document/10914547)
 
-**Guangxuan Song**, Dongmei Fu, Zhongwei Qiu, Zijiang Yang, Jiaxin Dai, Lingwei Ma, and Dawei Zhang
+**Xin Qin**, Kaixiang Peng, Hongjun Zhang
 
-[**Code and Dataset**](https://github.com/MatrixBrain/NR-KG) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We proposed NR-KG, a cross-modal knowledge graph framework that jointly models semantic and numerical information for material property prediction.
-- By addressing the challenges of small-sample scientific data, NR-KG achieves significant improvements over state-of-the-art methods and contributes new benchmark datasets to the field.
+**IEEE TIM** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We proposed a quality-related multimodal process monitoring strategy based on IITL-SQAE for addressing theissues ofnonlinearity, dynamics, and multimodality inindustrial rprocess quality monitoring.
+- A novel neural network with a certain level of inter-pretability was introduced. The neural network utilizes thecorrelation and causality of process variable and qualityvariable to extract deep quality-related features.
 </div>
 </div>
 
@@ -53,85 +53,50 @@ A guiding principle I live by is: **Do good work, and don’t worry too much abo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/TSNet-500x300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Taylor-Sensus Network: Embracing Noise to Enlighten Uncertainty for Scientific Data](https://arxiv.org/abs/2409.07942)
+[A Quality Soft Sensing Method for Multi-Stage Complex Manufacturing Processes（一种面向多工序复杂制造过程的质量软测量方法）](https://jsuese.scu.edu.cn/zh/article/doi/10.12454/j.jsuese.202400080/)
 
-**Guangxuan Song**, Dongmei Fu, Zhongwei Qiu, Jintao Meng, and Dawei Zhang
+Kaixiang Peng, **Xin Qin**, Jiahao Wang, Hui Yang
 
-<!-- [**Code and Dataset**](https://github.com/MatrixBrain/NR-KG) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- We proposed TSNet, a novel Taylor series-based network that explicitly models heteroscedastic noise and estimates both aleatoric and epistemic uncertainty in scientific data.
-- TSNet demonstrates superior robustness and predictive performance across various benchmarks, offering a principled approach to uncertainty modeling in AI for Science.
+**Advanced Engineering Sciences** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- We proposed an mRMR-GA-ResNet-based soft measurement modeling method for quality of multi-process complex manufacturing processes considering process time delay.
+- A multi-sensor process variable selection method based on mRMR and GA considering the time delay between process variables and quality variables was introduced.
 </div>
 </div>
 
 
-<!-- ######################################## -->
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AECE 2025</div><img src='images/AECE-500x300.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Message Passing Neural Network Framework with Learnable PageRank for Author Impact Assessment](https://aece.ro/abstractplus.php?year=2025&number=1&article=2)
-
-**Guangxuan Song**, Dongmei Fu, and Xiaomeng Wu
-
-<!-- [**Code and Dataset**](https://github.com/MatrixBrain/NR-KG) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- We developed NPRNet, a neural-enhanced PageRank framework that integrates graph topology with spatial and attribute information to assess author influence more effectively.
-- Our method improves computational efficiency and better reflects current research dynamics, offering a data-driven tool for scholarly evaluation.
-</div>
-</div>
-
-- [From Knowledge Graph Development to Serving Industrial Knowledge Automation: A Review](https://ieeexplore.ieee.org/abstract/document/9901564/)
+- [Knowledge-data-driven process monitoring based on temporal knowledgegraphs and supervised contrastive learning for complex industrial processes](https://ieeexplore.ieee.org/abstract/document/9901564/)
   
-  **Guangxuan Song**, Dongmei Fu, and Dawei Zhang
+  Kaixiang Peng, Jianhua Chen, Hui Yang, **Xin Qin**
   
-  **2022 41st Chinese Control Conference (CCC)**
+  **Journal of Process Control**
 
 ---
 
-- Corrosion Resistant Performance Prediction in High-Entropy Alloys: A Framework for Model, Interpretation and Multi-Dimensional Visualization
+- A Semi-supervised Quality Soft Sensing Methodunder Multiple Operating Conditions for ComplexProduct Manufacturing Processes
   
-  **Guangxuan Song**, Dongmei Fu, Weiwei Chang, Zhongheng Fu, Lingwei Ma, and Dawei Zhang
+  Kaixiang Peng, Jiahao Wang, Hui Yang, **Xin Qin**
   
-  **Corrosion Science (under review)**
+  **IEEE Transactions on Instrumentation and Measurement**
 
 ---
 
-- Corrosion Resistance Prediction of High-entropy Alloys: Framework and Knowledge Graph-Drive
+-A Novel Quality-Related Generative Data-Driven Fault Diagnosis Method for Complex Industrial Processes with Incomplete Data
   
-  **Guangxuan Song**, Dongmei Fu, Yongjie Lin, Lingwei Ma, and Dawei Zhang
+  Muhammad Asfandyar Shahid, Kaixiang Peng, Xueyi Zhang, **Xin Qin**
   
-  **npj Materials Degradation (under review)**
+  **Measurement**
 
 ---
 
-- [Cross-category prediction of corrosion inhibitor performance based on molecular graph structures via a three-level message passing neural network model](https://www.sciencedirect.com/science/article/abs/pii/S0010938X22006989)
+
+- Semi-supervised soft measurement of strip hot milling process considering incomplete samples（考虑不完备样本的带钢热轧过程半监督软测量方法）
   
-  Jiaxin Dai, Dongmei Fu, **Guangxuan Song**, Lingwei Ma, Xin Guo, Arjan Mol, Ivan Cole, and Dawei Zhang
+  Xiaoyu Liu, **Xin Qin**, Xiaoke Xu, Kaixiang Peng,
   
-  **Corrosion Science 2023**
+  **The 34th Chinese Process Control Conference, CPCC 2023**
 
 ---
 
-- [A Data-Driven Hybrid Machine Learning and Transfer Learning Algorithm for Long Consecutive Atmospheric Environment Missing Data Imputation](https://ieeexplore.ieee.org/abstract/document/10662572)
-  
-  Hao Meng, Lizhen Shao, Dongmei Fu, **Guangxuan Song**, and Jintao Meng
-  
-  **2024 43st Chinese Control Conference (CCC)**
-
----
-
-- [Extraction of Key Environmental Factors and Construction of the Data-Driven Model for Atmospheric Aging of Polyurethane Coatings](https://ieeexplore.ieee.org/abstract/document/10239958/)
-  
-  Zhijian Bai, Dongmei Fu, **Guangxuan Song**, Lizheng Shao, and Dawei Zhang
-  
-  **2023 42st Chinese Control Conference (CCC)**
-
----
-
-- [A Named Entity Extraction Method for Commonly Used Steel Knowledge Graph](https://link.springer.com/chapter/10.1007/978-981-16-6320-8_74)
-  
-  Zeqi Ma, Lingwei Ma, Dongmei Fu, Guangxuan Song, and Dawei Zhang
-  
-  **2021 Chinese Intelligent Systems Conference**
 
 # 🎖 Honors and Awards
 - *2020*, First Prize, **International Contest of innovAtioN (iCAN)**, *Calmspoon Stabilizing Tableware*
