@@ -35,7 +35,7 @@ A guiding principle I live by is: **Heaven rewards the diligent! (天道酬勤!)
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM</div><img src='images/SQAE 400x400.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM</div><img src='images/SQAE 400X400.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Novel Multimodal Process Monitoring Method Based on Improved Just-in-Time Learning-Assisted Stacked Quality-Related Autoencoder](https://ieeexplore.ieee.org/abstract/document/10914547)
