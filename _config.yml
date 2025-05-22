@@ -27,17 +27,17 @@ author:
   location         : "USTB, Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=6ZeRaEYAAAAJ"
-  email            : "sguangxuan@163.com"
+  googlescholar    : #"https://scholar.google.com/citations?user=6ZeRaEYAAAAJ"
+  email            : "15187829110@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :  https://sguangxuan.github.io/resume/
+  uri              :  #https://sguangxuan.github.io/resume/
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : sguangxuan  # e.g., "github username"
+  github           : qinxin97  # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : https://orcid.org/0000-0003-2007-1431
+  orcid            : https://orcid.org/0009-0005-2713-0301
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -53,12 +53,12 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            : https://weibo.com/u/2079942325
+  weibo            : #https://weibo.com/u/2079942325
   xing             :
   youtube          :
   wikipedia        :
-  bilibili         : https://space.bilibili.com/54811008
-  zhihu            : https://www.zhihu.com/people/song-yan-xuan-68
+  bilibili         : #https://space.bilibili.com/54811008
+  zhihu            : #https://www.zhihu.com/people/song-yan-xuan-68
 
 
 # Reading Files
