@@ -123,7 +123,7 @@ Kaixiang Peng, **Xin Qin**, Jiahao Wang, Hui Yang
 - *2024*, **A kind of float glass production process corrugation degree monitoring and regulation optimization method and device** (一种浮法玻璃生产过程波纹度监测与调控优化方法及装置), Under Substantive Examination, CN202410164966.2
 - *2024*, **A soft measurement model inspection method and device for float glass product quality** (一种面向浮法玻璃产品质量的软测量模型检测方法及装置), Under Substantive Examination, CN202410416412.7
 
-# 💻 Software Copyrights
+<!--# 💻 Software Copyrights-->
 
 <!-- - *2022*, **Book Knowledge Extraction Annotation Software** V1.0 (书籍知识抽取标注软件), 2022SR1352750 -->
 
