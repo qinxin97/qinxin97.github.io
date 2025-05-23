@@ -15,11 +15,5 @@ main:
   - title: "Patents"
     url: "/#-patents"
 
-  - title: "Software Copyrights"
-    url: "/#-software-copyrights"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
   - title: "Links"
     url: "/#-links"
