@@ -77,7 +77,7 @@ A guiding principle I live by is: **Heaven rewards the diligent! (天道酬勤!)
 
 **Xin Qin**, Runze Xing, Tie Li, Yunbo Wang, Jie Dong, Kaixiang Peng
 
-**IEEE TIM**
+**Measurement**
 - We proposed a novel CBAM-ConvGRU-based method is proposed for crown prediction, which dynamically captures spatio-temporal features of the HSMPto predict strip crown with high accuracy and robustness.
 - The CBAM is designed to adaptively adaptively highlights spatio-temporal features most relevant to crown.
 </div>
