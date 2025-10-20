@@ -40,6 +40,21 @@ A guiding principle I live by is: **Heaven rewards the diligent! (天道酬勤!)
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII</div><img src='images/BCSQ.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Batch-Constrained Safe Deep Q-Learning-Based Cloud-Edge Collaborative Framework for Dynamic Operation Optimization in Industrial Processes](https://ieeexplore.ieee.org/abstract/document/11185184)
+
+**Xin Qin**, Hong Liu, Jie Dong,Kaixiang Peng
+
+**IEEE TII**
+- We proposed a batch-constrained safe deep Q-learning-based cloud-edge collaborative framework for dynamic operation optimization in industrial processes. This framework can dynamically generate operation optimization policy to ensure the performance of industrial process products.
+- A cloud-edge collaborative function deployment is designed, combining offline safe RL on the cloud withonline performance prediction and dynamic policy gen-eration at the edge. This addresses the computational challenges of RL and ensures the timely and reliability of operational optimization.
+</div>
+</div>
+
+<!-- ######################################## -->
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM</div><img src='images/SQAE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -50,6 +65,21 @@ A guiding principle I live by is: **Heaven rewards the diligent! (天道酬勤!)
 **IEEE TIM**
 - We proposed a quality-related multimodal process monitoring strategy based on IITL-SQAE for addressing theissues ofnonlinearity, dynamics, and multimodality inindustrial rprocess quality monitoring.
 - A novel neural network with a certain level of inter-pretability was introduced. The neural network utilizes thecorrelation and causality of process variable and qualityvariable to extract deep quality-related features.
+</div>
+</div>
+
+<!-- ######################################## -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM</div><img src='images/CBAM_CGRU.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A novel spatio-temporal features-aware crown prediction method based on CBAM-ConvGRU for hot strip mill process](https://doi.org/10.1016/j.measurement.2025.119260)
+
+**Xin Qin**, Runze Xing, Tie Li, Yunbo Wang, Jie Dong, Kaixiang Peng
+
+**IEEE TIM**
+- We proposed a novel CBAM-ConvGRU-based method is proposed for crown prediction, which dynamically captures spatio-temporal features of the HSMPto predict strip crown with high accuracy and robustness.
+- The CBAM is designed to adaptively adaptively highlights spatio-temporal features most relevant to crown.
 </div>
 </div>
 
