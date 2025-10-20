@@ -70,7 +70,7 @@ A guiding principle I live by is: **Heaven rewards the diligent! (天道酬勤!)
 
 <!-- ######################################## -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM</div><img src='images/CBAM_CGRU.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Measurement</div><img src='images/CBAM_CGRU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A novel spatio-temporal features-aware crown prediction method based on CBAM-ConvGRU for hot strip mill process](https://doi.org/10.1016/j.measurement.2025.119260)
