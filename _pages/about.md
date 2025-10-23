@@ -122,6 +122,15 @@ Kaixiang Peng, **Xin Qin**, Jiahao Wang, Hui Yang
 
 ---
 
+- [A novel quality-related generative data-driven fault diagnosis method for complex industrial processes with incomplete data]()
+  
+  Muhammad Asfandyar Shahid, Xueyi Zhang, **Xin Qin**, Kaixiang Peng
+  
+  **Measurement Science and Technology**
+
+---
+
+
 - [Hierarchical Spatiotemporal Characteristics Analysis-Based Quality-Related Fault Detection and Trustworthy Diagnosis for Complex Industrial Processes](https://ieeexplore.ieee.org/abstract/document/11197487)
   
   Jiaxiao Wu, Tie Li, Kaixiang Peng, Xueyi Zhang, **Xin Qin**，Jie Dong
