@@ -98,6 +98,46 @@ Kaixiang Peng, **Xin Qin**, Jiahao Wang, Hui Yang
 </div>
 </div>
 
+- [Spatio-Temporal Deep Feature Fusion Network-Based Distributed Quality-Related Anomaly Monitoring for Large-Scale Manufacturing Processes](https://ieeexplore.ieee.org/abstract/document/11048436)
+  
+  Kaixiang Peng, Qingchen Fan, Tie Li, **Xin Qin**，Jie Dong
+  
+  **IEEE Sensors Journal**
+
+---
+
+- [A novel distributed fine-grained energy consumption monitoring for large-scale nonlinear dynamic industrial processes](https://ieeexplore.ieee.org/abstract/document/11048436)
+  
+  Kaixiang Peng, Yuzhe Wei, Tie Li, **Xin Qin**，Jie Dong
+  
+  **International Journal of Production Research**
+
+---
+
+- [A novel deep dynamic partial least squares latent variable modeling approach for quality monitoring in industrial processes](https://iopscience.iop.org/article/10.1088/1361-6501/adead0/meta)
+  
+  Kaixiang Peng, Jialu Liu, Tie Li, **Xin Qin**，Linlin Li, Jie Dong
+  
+  **International Journal of Production Research**
+
+---
+
+- [Hierarchical Spatiotemporal Characteristics Analysis-Based Quality-Related Fault Detection and Trustworthy Diagnosis for Complex Industrial Processes](https://ieeexplore.ieee.org/abstract/document/11197487)
+  
+  Jiaxiao Wu, Tie Li, Kaixiang Peng, Xueyi Zhang, **Xin Qin**，Jie Dong
+  
+  **IEEE Transactions on Instrumentation and Measurement**
+
+---
+
+- [A novel deep multi-task learning model for spatial–temporal fault detection and diagnosis in industrial systems](https://onlinelibrary.wiley.com/doi/abs/10.1002/cjce.25760)
+  
+   Muhammad Asfandyar Shahid, Xueyi Zhang, **Xin Qin**, Kaixiang Peng 
+  
+  **The Canadian Journal of Chemical Engineering**
+
+---
+
 - [Knowledge-data-driven process monitoring based on temporal knowledgegraphs and supervised contrastive learning for complex industrial processes](https://ieeexplore.ieee.org/abstract/document/9901564/)
   
   Kaixiang Peng, Jianhua Chen, Hui Yang, **Xin Qin**
@@ -127,6 +167,14 @@ Kaixiang Peng, **Xin Qin**, Jiahao Wang, Hui Yang
   Xiaoyu Liu, **Xin Qin**, Xiaoke Xu, Kaixiang Peng,
   
   **The 34th Chinese Process Control Conference, CPCC 2023**
+
+---
+
+- [A Drift -Adaptive Spatio -Temporal GAT and Masked Transformer Framework for Industrial Fault Diagnosis and Quality Prediction]()
+  
+  Muhammad Asfandyar Shahid, Kaixiang Peng, Xueyi Zhang, **Xin Qin**
+  
+  **2025 China Automation Congress**
 
 ---
 
